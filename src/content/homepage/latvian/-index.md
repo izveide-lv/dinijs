@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "Dinijs A. Deģis"
-  content: "Text content"
+  title: "Rakstnieka Dinija A. Deģa personīgā vietne"
+  content: "Tiecos uz profesionāla rakstnieka statusu - uz pilnu slodzi literatūrā. Esmu gatavs ziedot savu vienīgo mūžu šajā fiziskajā ķermenī, lai izkoptu savu daiļrades metodi, radošo individuālo rokrakstu, ko atpazītu, cienītu un izvēlētos Jūs - mani lasītāji. Romānu rakstīšanā sakausēju dzimtas sāgas, vēsturiskus, reālus notikumus, faktus ar neparastiem varoņiem, dēkām un pārdabiskiem elementiem, to pārlejot ar gardu humora mērci. Esmu gatavs radoši sasaukties un sacensties ar latviešu romānistiem - Vili Lāci, Pāvilu Rozīti, Rutku Tēvu un Aleksandru Grīnu. Vai tas būs izdevies, par to lai spriež biogrāfi un literatūrzinātnieki. Manās grāmatās jūs - lasītāji, nedrīkstētu just manu piepūli, sviedrus, visam jātop ar elegantu vieglumu."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "View biography"
-    link: "/biogrpahy"
+    label: "Apskatīt biogrāfiju"
+    link: "/biography"
 
 # Features
 features:

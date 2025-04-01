@@ -1,0 +1,16 @@
+{
+  "full_name": "Jūsu vārds",
+  "full_name_placeholder": "Ievadiet savu vārdu",
+  "mail_placeholder": "john.doe@email.com",
+  "message": "Ziņa",
+  "message_placeholder": "Jūsu ziņa...",
+  "submit": "Nosūtīt",
+  "read_more": "Lasīt vairāk",
+  "page_not_found": "Lapa nav atrasta",
+  "working_mail": "Darba e-pasts",
+  "anything_else": "Vēl kas cits?",
+  "contact_message_placeholder": "IEvadiet savu ziņu...",
+  "page_not_found_content": "Lapa, ko meklējāt, netika atrasta.",
+  "back_to_home": "Atgriezties uz sākumu",
+  "get_started": "Sākt"
+}

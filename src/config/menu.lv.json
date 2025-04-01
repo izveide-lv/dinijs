@@ -1,0 +1,12 @@
+{
+  "main": [
+    { "name": "Biogrāfija", "url": "/biography" },
+    { "name": "Izdotais", "url": "/published" },
+    { "name": "Autortiesības", "url": "/copyright" },
+    { "name": "Promo", "url": "/promo" },
+    { "name": "Starptautiski", "url": "/international" },
+    { "name": "Tirgojas", "url": "/sale" },
+    { "name": "Blogs", "url": "/blog" }
+  ],
+  "footer": [{ "name": "Privātuma politika", "url": "/privacy-policy" }]
+}
